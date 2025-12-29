@@ -193,15 +193,25 @@ spring.jpa.show-sql=true
 
 ## 📊 Sample Console Output
 
-![Data Insertion](screenshots/ouput1.png)
+## Data Insertion:
 
-![Data already exist](screenshots/output2.png)
+![](screenshots/ouput1.png)
 
-![Hospital Table](screenshots/hospital_db.png)
+## Data Already Exist:
 
-![Doctor Table](screenshots/doctor_db.png)
+![](screenshots/output2.png)
 
-![Patient Table](screenshots/patient_db.png)
+## Hospital Table:
+
+![](screenshots/hospital_db.png)
+
+## Doctor Table:
+
+![](screenshots/doctor_db.png)
+
+## Patient Table:
+
+![](screenshots/patient_db.png)
 
 ---
 
