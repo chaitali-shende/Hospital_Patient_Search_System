@@ -184,10 +184,12 @@ server.port=8083
 
 spring.datasource.url=jdbc:mysql://localhost:3306/hospitaldb
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=********
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
+
+> 🔒 Database credentials are masked for security reasons.
 
 ---
 
@@ -232,6 +234,17 @@ Exception handling
 Clean layered architecture
 
 ---
+
+## 🎯 Learning Outcomes
+
+- Designed relational database schema using JPA
+- Implemented finder methods for dynamic searching
+- Managed entity relationships effectively
+- Used logging for debugging and monitoring
+- Prevented duplicate records using repository checks
+- Followed layered architecture best practices
+
+  ---
 
 ## 🔮 Future Enhancements
 
