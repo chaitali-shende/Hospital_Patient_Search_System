@@ -173,8 +173,6 @@ Boot-DataJPA-HospitalMgmt
 
 Create a MySQL database:
 
-```sql
-
 CREATE DATABASE hospitaldb;
 
 ---
