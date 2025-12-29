@@ -1,4 +1,4 @@
-# 🏥 Hospital Patient Search System
+## 🏥 Hospital Patient Search System
 
 A Spring Boot application that manages hospitals, doctors, and patients using **Spring Data JPA** and **MySQL**.  
 The system allows searching patients based on disease, admission date, and discharge status.
@@ -193,6 +193,15 @@ spring.jpa.show-sql=true
 
 ## 📊 Sample Console Output
 
+![Data Insertion](screenshots/ouput1.png)
+
+![Data already exist](screenshots/output2.png)
+
+![Hospital Table](screenshots/hospital_db.png)
+
+![Doctor Table](screenshots/doctor_db.png)
+
+![Patient Table](screenshots/patient_db.png)
 
 ---
 
