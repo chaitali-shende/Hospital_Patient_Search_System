@@ -195,21 +195,21 @@ spring.jpa.show-sql=true
 
 ## Data Insertion:
 
-![](screenshots/ouput1.png)
+![](screenshots/output1.png)
 
 ## Data Already Exist:
 
 ![](screenshots/output2.png)
 
-## Hospital Table:
+## Hospital DB:
 
 ![](screenshots/hospital_db.png)
 
-## Doctor Table:
+## Doctor DB:
 
 ![](screenshots/doctor_db.png)
 
-## Patient Table:
+## Patient DB:
 
 ![](screenshots/patient_db.png)
 
